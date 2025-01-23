@@ -1,1 +1,1 @@
-# perulangan-for-js
+tugas pak dzikri
